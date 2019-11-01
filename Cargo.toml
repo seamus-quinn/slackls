@@ -5,3 +5,8 @@ authors = ["Seamus Quinn <sumaesquinn@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+url = "2.1.0"
+hyper = "0.12"
+hyper-tls = "0.3.2"
+webbrowser = "0.5.2"
+futures = "0.1.29"
