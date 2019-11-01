@@ -1,2 +1,6 @@
 /target
+
+# Removing Cargo.lock since we're building a executable
+Cargo.lock
+
 **/*.rs.bk
